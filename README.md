@@ -1,4 +1,5 @@
-# React + Vite
+# Connect to MetaMask Wallet (Using Alchemy API) 
+# Project in React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
